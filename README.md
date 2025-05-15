@@ -110,7 +110,8 @@ An elegant UI to discover delicious meals and recipes with responsive design and
 A browser-based game to test and improve short-term memory with card matching logic.  
 **Tech Stack**: HTML5, CSS3, JavaScript
 <p align="center">
-  <img src="./MemoryGame.png" alt="MemoryGame image" width="100%" />
+  <img src="./MemoryGame1.png" alt="MemoryGame image" width="45%" />
+  <img src="./MemoryGame2.png" alt="MemoryGame image" width="45%" />
 </p>
 
 ---
