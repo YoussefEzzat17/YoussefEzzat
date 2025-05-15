@@ -76,7 +76,7 @@
 
 ## 🚀 Projects
 
-### 🔹 [Movie App]([https://github.com/YoussefEzzat17/MovieApp](https://moviereactsite.netlify.app/])
+### 🔹 [Movie App]https://github.com/YoussefEzzat17/MovieApp](https://moviereactsite.netlify.app/
 A modern React.js movie browsing app with dark theme, search functionality, image slider, and context-based state management.  
 **Tech Stack**: React.js, React Router, Bootstrap, Context APIpt
 
