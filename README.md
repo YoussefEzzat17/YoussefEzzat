@@ -80,32 +80,47 @@
 A modern React.js movie browsing app with dark theme, search functionality, image slider, and context-based state management.  
 **Tech Stack**: React.js, React Router, Bootstrap, Context APIpt
 <p align="center">
-  <img src="./Movie1.png" alt="Movie App Screenshot 1" width="45%" />
-  <img src="./Movie2.png" alt="Movie App Screenshot 2" width="45%" />
+  <img src="./Movie1.png" alt="Movie App image" width="45%" />
+  <img src="./Movie2.png" alt="Movie App image" width="45%" />
+  <img src="./Movie3.png" alt="Movie App image" width="45%" />
+  <img src="./Movie4.png" alt="Movie App image" width="45%" />
 </p>
 ---
 
 ### 🔹 [Nextstore – Product Manager](https://next-crud-app.netlify.app/)
 A full-stack Next.js 13 product management app with seamless CRUD operations, Material-UI design, RESTful API integration, and App Router-based architecture.  
 **Tech Stack**: Next.js 13, MUI, RESTful API
-
+<p align="center">
+  <img src="./Next1.png" alt="Product image" width="45%" />
+  <img src="./Next2.png" alt="Product image" width="45%" />
+</p>
 ---
 
 ### 🔹 [Yummy – Food Discovery App](https://youssefezzat17.github.io/Yummy/)
 An elegant UI to discover delicious meals and recipes with responsive design and real-time search.  
 **Tech Stack**: HTML5, CSS3, JavaScript, Bootstrap, jQuery
+<p align="center">
+  <img src="./Yummy1.png" alt="Yummy image" width="45%" />
+  <img src="./Yummy2.png" alt="Yummy image" width="45%" />
+</p>
 
 ---
 
 ### 🔹 [Memory Game](https://memorygame-site.netlify.app/)
 A browser-based game to test and improve short-term memory with card matching logic.  
 **Tech Stack**: HTML5, CSS3, JavaScript
+<p align="center">
+  <img src="./MemoryGame.png" alt="MemoryGame image" width="100%" />
+</p>
 
 ---
 
 ### 🔹 [Weather App](https://youssefezzat17.github.io/weather/)
 Simple and clean 3-day forecast app that allows users to view weather data by country.  
 **Tech Stack**: HTML5, CSS3, JavaScript
+<p align="center">
+  <img src="./Weather.png" alt="Weather image" width="100%" />
+</p>
 
 ---
 
@@ -118,7 +133,9 @@ A dynamic product management dashboard with advanced routing, search, filtering,
 ### 🔹 [DevFolio – Personal Portfolio Website](https://youssefezzat17.github.io/Devfolio/)
 A portfolio to showcase skills, projects, and contact info using modern HTML/CSS layout.  
 **Tech Stack**: HTML5, CSS3, JavaScript, Bootstrap
-
+<p align="center">
+  <img src="./Defolio.png" alt="Defolio image" width="100%" />
+</p>
 ---
 
 
