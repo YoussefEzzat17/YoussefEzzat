@@ -80,7 +80,7 @@
 A modern React.js movie browsing app with dark theme, search functionality, image slider, and context-based state management.  
 **Tech Stack**: React.js, React Router, Bootstrap, Context APIpt
 ![Project Banner](./Movie1.png)
-![Project Banner](./Movie 2.png)
+![Project Banner](./Movie2.png)
 
 ---
 
