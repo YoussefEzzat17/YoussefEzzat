@@ -100,7 +100,7 @@ A full-stack Next.js 13 product management app with seamless CRUD operations, Ma
 An elegant UI to discover delicious meals and recipes with responsive design and real-time search.  
 **Tech Stack**: HTML5, CSS3, JavaScript, Bootstrap, jQuery
 <p align="center">
-  <img src="./Yummy1.png" alt="Yummy image" width="45%" />
+  <img src="./Yummy.png" alt="Yummy image" width="45%" />
   <img src="./Yummy2.png" alt="Yummy image" width="45%" />
 </p>
 
