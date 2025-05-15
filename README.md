@@ -79,9 +79,10 @@
 ### 🔹 [Movie App](https://moviereactsite.netlify.app/)
 A modern React.js movie browsing app with dark theme, search functionality, image slider, and context-based state management.  
 **Tech Stack**: React.js, React Router, Bootstrap, Context APIpt
-![Project Banner](./Movie1.png)
-![Project Banner](./Movie2.png)
-
+<p align="center">
+  <img src="./Movie1.png" alt="Movie App Screenshot 1" width="45%" />
+  <img src="./Movie2.png" alt="Movie App Screenshot 2" width="45%" />
+</p>
 ---
 
 ### 🔹 [Nextstore – Product Manager](https://next-crud-app.netlify.app/)
