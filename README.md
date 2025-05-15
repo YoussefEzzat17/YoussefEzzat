@@ -1,3 +1,5 @@
+<img src="banner_github.png" alt="Github Banner" widht="100%"/>
+
 # 💫 About Me:
 A Motivated MERN Stack Software Engineer with a strong passion for building full-stack web applications. <br>Experienced in modern front-end and back-end development using tools like React.js and Node.js. <br>Strong team player with solid problem-solving skills and a focus on clean, maintainable code following best practices.
 
