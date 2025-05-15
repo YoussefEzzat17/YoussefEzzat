@@ -76,48 +76,47 @@
 
 ## 🚀 Projects
 
-### 🔹 [Nextstore – Product Manager](https://github.com/YoussefEzzat17/Nextstore)
+### 🔹 [Movie App]([https://github.com/YoussefEzzat17/MovieApp](https://moviereactsite.netlify.app/))
+A modern React.js movie browsing app with dark theme, search functionality, image slider, and context-based state management.  
+**Tech Stack**: React.js, React Router, Bootstrap, Context APIpt
+
+---
+
+### 🔹 [Nextstore – Product Manager]([https://github.com/YoussefEzzat17/Nextstore](https://next-crud-app.netlify.app/)
 A full-stack Next.js 13 product management app with seamless CRUD operations, Material-UI design, RESTful API integration, and App Router-based architecture.  
 **Tech Stack**: Next.js 13, MUI, RESTful API
 
 ---
 
-### 🔹 [VueStock – Product Management Dashboard](https://github.com/YoussefEzzat17/VueStock)
-A dynamic product management dashboard with advanced routing, search, filtering, and real-time CRUD functionality.  
-**Tech Stack**: Vue.js, Vuex, Axios, Bootstrap
-
----
-
-### 🔹 [Yummy – Food Discovery App](https://github.com/YoussefEzzat17/Yummy)
+### 🔹 [Yummy – Food Discovery App]([https://github.com/YoussefEzzat17/Yummy](https://youssefezzat17.github.io/Yummy/))
 An elegant UI to discover delicious meals and recipes with responsive design and real-time search.  
 **Tech Stack**: HTML5, CSS3, JavaScript, Bootstrap, jQuery
 
 ---
 
-### 🔹 [Movie App](https://github.com/YoussefEzzat17/MovieApp)
-A modern React.js movie browsing app with dark theme, search functionality, image slider, and context-based state management.  
-**Tech Stack**: React.js, React Router, Bootstrap, Context API
-
----
-
-### 🔹 [Weather App](https://github.com/YoussefEzzat17/WeatherApp)
-Simple and clean 3-day forecast app that allows users to view weather data by country.  
-**Tech Stack**: HTML5, CSS3, JavaScript
-
----
-
-### 🔹 [Memory Game](https://github.com/YoussefEzzat17/MemoryGame)
+### 🔹 [Memory Game]([https://github.com/YoussefEzzat17/MemoryGame](https://memorygame-site.netlify.app/))
 A browser-based game to test and improve short-term memory with card matching logic.  
 **Tech Stack**: HTML5, CSS3, JavaScript
 
 ---
 
-### 🔹 [DevFolio – Personal Portfolio Website](https://github.com/YoussefEzzat17/DevFolio)
+### 🔹 [Weather App]([https://github.com/YoussefEzzat17/WeatherApp](https://youssefezzat17.github.io/weather/))
+Simple and clean 3-day forecast app that allows users to view weather data by country.  
+**Tech Stack**: HTML5, CSS3, JavaScript
+
+---
+
+### 🔹 [VueStock – Product Management Dashboard]([https://github.com/YoussefEzzat17/VueStock](https://github.com/YoussefEzzat17/Vue-CRUD-Operations))
+A dynamic product management dashboard with advanced routing, search, filtering, and real-time CRUD functionality.  
+**Tech Stack**: Vue.js, Vuex, Axios, Bootstrap
+
+---
+
+### 🔹 [DevFolio – Personal Portfolio Website]([https://github.com/YoussefEzzat17/DevFolio](https://youssefezzat17.github.io/Devfolio/))
 A portfolio to showcase skills, projects, and contact info using modern HTML/CSS layout.  
 **Tech Stack**: HTML5, CSS3, JavaScript, Bootstrap
 
 ---
-
 
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
