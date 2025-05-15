@@ -134,7 +134,7 @@ A dynamic product management dashboard with advanced routing, search, filtering,
 A portfolio to showcase skills, projects, and contact info using modern HTML/CSS layout.  
 **Tech Stack**: HTML5, CSS3, JavaScript, Bootstrap
 <p align="center">
-  <img src="./Defolio.png" alt="Defolio image" width="100%" />
+  <img src="./Devfolio.png" alt="Devfolio image" width="100%" />
 </p>
 ---
 
